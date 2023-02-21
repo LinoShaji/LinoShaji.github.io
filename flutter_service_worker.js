@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f43753d8363697eb1fd173387d76ee16",
+  "assets/AssetManifest.json": "7c92b2223294752a26c5169e30b6c218",
 "assets/FontManifest.json": "8b6cda71a8f7cbba024bb3c3d19131e6",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/lib/asset/fonts/Poppins-Black.ttf": "14d00dab1f6802e787183ecab5cce85e",
@@ -28,10 +28,11 @@ const RESOURCES = {
 "assets/lib/asset/images/portfoliopic.jpg": "f3eaa9cce044d8575ce06efd9799ac9c",
 "assets/lib/asset/images/pythonBackground.png": "4e682d6b0b1f4d0ab89b5bd901d4068b",
 "assets/lib/asset/images/WebBackground.png": "8269f03c383514d080669af905259c31",
+"assets/lib/asset/images/whatsapp.png": "7611f02494be1e121a6f6a391d3eafdc",
 "assets/lib/asset/images/whitegithub.png": "136ced5c7f2f5497fa43a78ad9a9402d",
 "assets/lib/asset/images/whiteInstagram.png": "1344c9694e4ad81aca65a3c4d5d7ad87",
 "assets/lib/asset/images/whitelinkedin.png": "2b3cc1ed2399868d1c549cf11bdd8eb2",
-"assets/NOTICES": "a5a8841208f5afc2cbffff9eed7d2d86",
+"assets/NOTICES": "e16ea81ab28b615e3a271829c35c12c7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -43,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8b9d914232fa24bc4d58d16fd0d96ad8",
-"/": "8b9d914232fa24bc4d58d16fd0d96ad8",
-"main.dart.js": "a5decb135a79e7c74af35fc87d4147ed",
+"index.html": "8b011cc7512043f96ecb764a60feb0b1",
+"/": "8b011cc7512043f96ecb764a60feb0b1",
+"main.dart.js": "8d1781bab137a9d90b8ab9f8576ba592",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
