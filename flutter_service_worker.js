@@ -27,6 +27,7 @@ const RESOURCES = {
 "assets/lib/asset/images/portfolio2.png": "f3e46a39f2599f2b39aaa7658057d956",
 "assets/lib/asset/images/portfoliopic.jpg": "f3eaa9cce044d8575ce06efd9799ac9c",
 "assets/lib/asset/images/pythonBackground.png": "4e682d6b0b1f4d0ab89b5bd901d4068b",
+"assets/lib/asset/images/Rhombus.gif": "db0d190da790c3a9c64e3689f580b247",
 "assets/lib/asset/images/WebBackground.png": "8269f03c383514d080669af905259c31",
 "assets/lib/asset/images/whatsapp.png": "7611f02494be1e121a6f6a391d3eafdc",
 "assets/lib/asset/images/whitegithub.png": "136ced5c7f2f5497fa43a78ad9a9402d",
@@ -39,9 +40,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5e6e5cfd0563ba1c3d1d9d5f9815792b",
-"/": "5e6e5cfd0563ba1c3d1d9d5f9815792b",
-"main.dart.js": "211514b8775794b2c301085b426c21da",
+"index.html": "e119767ba675ae0d14689c9421c32a4c",
+"/": "e119767ba675ae0d14689c9421c32a4c",
+"main.dart.js": "0dd21e94171b6f69acff4f6a8aade52c",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
